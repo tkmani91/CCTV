@@ -6,7 +6,7 @@ rtsp://admin:hik12345@192.168.1.6
 rtsp://admin:hik12345@192.168.1.5
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",ROAD SIDE 01
-rtsp://admin:hik12345@192.168.1.13
+rtsp://admin:hik12345@192.168.1.13:554/streaming/channels/101
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",ROAD SIDE 02
 rtsp://admin:hik12345@192.168.1.2
