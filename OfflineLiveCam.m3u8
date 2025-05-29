@@ -5,8 +5,11 @@ rtsp://admin:hik12345@192.168.1.6
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",SHOP
 rtsp://admin:hik12345@192.168.1.5
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",SHOP CASH
+rtsp://admin:HLZAHR@192.168.1.108
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",ROAD SIDE 01
-rtsp://admin:hik12345@192.168.1.13:554/streaming/channels/101
+rtsp://admin:hik12345@192.168.1.13
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",ROAD SIDE 02
 rtsp://admin:hik12345@192.168.1.2
